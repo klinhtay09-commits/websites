@@ -1,4 +1,4 @@
-# User manual
+adb shell pm grant com.arslan.customanimator android.permission.WRITE_SECURE_SETTINGS# User manual
 
 [[toc]]
 
